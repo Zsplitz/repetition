@@ -1,3 +1,5 @@
+import React from 'react'
+
 type CardProps = {
   title: string
   description: string
